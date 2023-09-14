@@ -1,2 +1,3 @@
 # RichaRaj
-This is my First Repository
+This is my Git First Repository
+Author-Richa Raj
